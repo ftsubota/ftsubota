@@ -3,7 +3,7 @@
 - 🚀 Hoje trabalho com TI na legaltech Preâmbulo Informática
 - 📚 Estudando Análise e Desenvolvimento de Sistemas
 - 🔍 Contate-me no e-mail: felipeplacidiotsubota@hotmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/ftsubota">
