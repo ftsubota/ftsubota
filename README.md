@@ -2,7 +2,7 @@
 
 - 🚀 Hoje trabalho com TI na legaltech Preâmbulo Informática
 - 📚 Estudando Análise e Desenvolvimento de Sistemas
-- 🔍 Contate-me no e-mail: felipeplacidiotsubota@hotmail.com
+- 🔍 Contate-me no e-mail: felipetsubota.dev@hotmail.com
 - 😄 Pronouns: he/him
 
 <div align="center">
