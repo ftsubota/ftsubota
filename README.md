@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe Tsubota
 
-- 🚀 Hoje trabalho com TI na legaltech Preâmbulo Informática
+- 🚀 Instituto das Cidades Inteligentes
 - 📚 Estudando Análise e Desenvolvimento de Sistemas
 - 🔍 Contate-me no e-mail: felipetsubota.dev@hotmail.com
 - 😄 Pronouns: he/him
