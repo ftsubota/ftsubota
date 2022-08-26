@@ -2,7 +2,7 @@
 
 - 🚀 Instituto das Cidades Inteligentes
 - 📚 Estudando Análise e Desenvolvimento de Sistemas
-- 🔍 Contate-me no e-mail: felipetsubota.dev@hotmail.com
+- 🔍 Contate-me no e-mail: felipeplacidiotsubota@hotmail.com
 - 😄 Pronouns: he/him
 
 <div align="center">
