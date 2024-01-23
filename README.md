@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Felipe Tsubota
 
-- 🚀 Instituto das Cidades Inteligentes
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
+- 📚 Junior Software Developer
 - 🔍 Contate-me no e-mail: felipeplacidiotsubota@hotmail.com
 - 😄 Pronouns: he/him
 
